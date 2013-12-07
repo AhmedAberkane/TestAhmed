@@ -1,0 +1,13 @@
+ExecuteAnonymousApex_code=Finest
+eclipse.preferences.version=1
+endpointApiVersion=29.0
+endpointEnvironment=Production/Developer Edition
+endpointServer=www.salesforce.com
+httpsProtocol=true
+ideVersion=29.0
+keependpoint=false
+metadataFormatVersion=29.0
+namespacePrefix=
+packageName=unpackaged
+readTimeout=400
+username=ahmedaberkane1@gmail.com
